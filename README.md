@@ -4,7 +4,7 @@ Repositório para armazenar resumos do bootcamp em Cloud com Inteligência Artif
 - [Visão Geral](README.md)
 - [Copilotos e IAs Generativas](copilotos_e_ias_generativa.md)
 - [Documentos e Pesquisa](documentos_e_pesquisa.md)
-
+- [Azure Voz e Linguagem](azure_voz_e_linguagem.md)
   
 # Resumo-computacao-em-nuvem
 Resumo de cloud computing do curso de cloud da DIO.
