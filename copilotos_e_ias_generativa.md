@@ -13,7 +13,9 @@ O **Copiloto** é um assistente de inteligência artificial que ajuda pessoas e 
 ### 🔤 PLN (Processamento de Linguagem Natural)
 Conjunto de técnicas para permitir que máquinas entendam e gerem linguagem humana.
 
-### 💡 NLP (Natural Language Processing)
+### 💡 RAG (Retrieval-Augmented Generation)
+combina busca em documentos com geração de respostas contextuais
+
 Mesmo conceito que PLN, mas em inglês. Usado para tradução automática, análise de sentimentos, respostas a perguntas, etc.
 
 ### 📚 LLM (Large Language Models)
