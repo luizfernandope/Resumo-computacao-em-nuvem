@@ -1,7 +1,9 @@
 ## 📖 Documentação
+Repositório para armazenar resumos do bootcamp em Cloud com Inteligência Artificial da XP Inc na plataforma da DIO.
 
 - [Visão Geral](README.md)
 - [Copilotos e IAs Generativas](copilotos_e_ias_generativa.md)
+- [Documentos e Pesquisa](documentos_e_pesquisa.md)
 
   
 # Resumo-computacao-em-nuvem
